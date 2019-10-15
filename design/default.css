@@ -167,8 +167,8 @@ footer {
 
 /* POLICES */
 @font-face {
-    font-family: 'theblacklist';
-    src: url('../src/theblacklist.ttf') format('truetype');
+    font-family: 'youthpower';
+    src: url('../src/youthpower.ttf') format('truetype');
 }
 
 @media all and (max-width: 1000px){
